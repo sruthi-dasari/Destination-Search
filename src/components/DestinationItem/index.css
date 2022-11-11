@@ -1,0 +1,17 @@
+.list-item {
+  list-style: none;
+  margin: 10px;
+  text-align: start;
+}
+
+.destination-img {
+  height: 120px;
+  width: 165px;
+}
+
+.destination-name {
+  font-family: 'Open sans';
+  font-size: 12px;
+  font-weight: 700;
+  color: #252627;
+}

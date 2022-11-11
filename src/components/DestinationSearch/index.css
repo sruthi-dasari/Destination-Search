@@ -1,0 +1,32 @@
+.bg-container {
+  height: 100vh;
+  text-align: center;
+}
+
+.main-heading {
+  font-family: 'Roboto';
+}
+
+.wrapper {
+  /* display: flex; */
+  /* position: relative; */
+  /* min-width: 100px; */
+}
+
+.search-bar {
+  background-color: #f1f5f9;
+  border-width: 0px;
+  padding: 8px;
+  border-radius: 7px;
+}
+
+.search-icon {
+  height: 20px;
+  width: 20px;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
